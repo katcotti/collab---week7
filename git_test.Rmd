@@ -1,0 +1,12 @@
+---
+title: "collab week 7"
+author: "Kat Cotti"
+date: "11/17/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Howdy partner!:)
